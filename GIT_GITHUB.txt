@@ -8,3 +8,39 @@ git --global user,email "emaildousuario@.dominio" -> credencia o email do usuari
 git init -> começa uma repositório na pasta selecionada.
 
 git add nomedoarquivo -> adiciona o arquivo para ser monitorado.
+
+git add .  -> adiciona todos os arquivos para ser monitorados.
+
+git status -> mostrar o status do repositório.
+
+cls -> limpar a tela do cmd
+
+git commit nomedoarquivo,extensão -m "descrição da freature" -> da um commit da freature.
+
+git commit -m 'descriçãos das freature' -> da um commit em todos as freature.
+
+git push -u origin main -> inicializa o push.
+
+git push -> manda os commit para o github
+
+git pull -> recebe os commit do github.
+
+git clone linkdorepositorio . -> clona o repositório.
+
+git log -> acessar as modificações dos commit.
+
+git checkout nomedoarquivo.extensao -> reverte a modificação
+
+pasta : .gitignore -> oque tiver escrito nele será ignorado pelo git.
+
+git reset --hard origin/main -> retorna ao ultimo commit do github. 
+
+git branch -> mostra as branchs.
+
+git branch nova_branch -> cria uma nova branch.
+
+git checkout outro_branch -> troca de branch.
+
+git checkou -b mais_uma_branch -> cria e troca a branch.
+
+git merge uma_branch -> uni uma branch a outra.
