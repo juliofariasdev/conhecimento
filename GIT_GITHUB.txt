@@ -1,0 +1,10 @@
+GIT_GITHUB
+
+comados:
+git --global user.name "nomedousuario" -> credencia o nome do usuario global.
+
+git --global user,email "emaildousuario@.dominio" -> credencia o email do usuario global.
+
+git init -> começa uma repositório na pasta selecionada.
+
+git add nomedoarquivo -> adiciona o arquivo para ser monitorado.
