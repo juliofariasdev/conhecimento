@@ -1,1 +1,16 @@
 a -> significa 'um'/'uma'.
+box -> significa 'caixa'.
+branch -> significa 'ramificação'.
+desktop -> significa 'computador de mesa'.
+directory -> significa 'diretório'.
+file -> significa 'arquivo'.
+lens -> significa 'lente'.
+main -> significa 'princinpal'.
+out - significa 'fora'.
+prime -> significa 'primário'.
+prompt -> significa 'induzir'.
+safe -> significa 'seguro'.
+search -> significa 'procura'.
+table -> significa 'mesa'.
+work -> significa 'trabalho'.
+you -> significa 'você'.
