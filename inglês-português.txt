@@ -5,7 +5,7 @@ activity -> significa 'atividade'
 back -> signifca 'atrás'.
 box -> significa 'caixa'.
 branch -> significa 'ramificação'.
-could -> significa 'could'.
+could -> significa 'poderia'.
 date -> significa 'data'.
 desktop -> significa 'computador de mesa'.
 directory -> significa 'diretório'.
