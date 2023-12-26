@@ -2,6 +2,12 @@
     1.1.OBESERVANDO A NATUREZA:
         Matéria -> É tudo tem massa e volume.
         Separações -> são os processos para separar os materias de uma mistura.
-    1.2.AS TRANSFORMÇÕES DA MATÉRIA:
+
+    1.2.AS TRANSFORMAÇÕES DA MATÉRIA:
         Transformção material, Fenômenos materiais ou Fenômenos -> alteração sofrida pela máteria.
         Experiência -> tentativas, teste, reconhecer, reproduzir, entre outros.
+        
+    1.3.A ENERGIA QUE ACOMPANHA AS TRANSFORMAÇÕES DA MATÉRIA:
+        Transformações físicas ou Fenôemnos físicos -> quando a transformação muda apenas o estado físico.
+        Transformações químicas, Fenômenos químicos ou Reações químicas -> quando a transformação muda o estado químico.
+        Energia -> tudo que é capaz de realizar um trabalho.
