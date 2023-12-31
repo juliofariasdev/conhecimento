@@ -1,0 +1,2 @@
+valor_total = float(input("Qual o valor do iphone: R$"))
+print(f'O total a pagar a vista, com desconto de 10% é R${0.9*valor_total:.2f} \nO valor de cada parcela, no parcelamento de 3x sem juros é R${valor_total/3:.2f} \nA comissão do vendedor, no caso de venda ser a vista é R${valor_total*0.05:.2f} \nA comissão do vendedor, no caso da venda ser parcelada é {valor_total*0.05:.2f}')
