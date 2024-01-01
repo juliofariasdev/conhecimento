@@ -9,6 +9,8 @@ all -> significa 'tudo'.
 and -> significa 'e'.
 armor -> significa 'armadura'.
 back -> significa 'atrás'.
+bag -> significa 'bolsa'.
+begin -> significa 'começar'.
 best -> significa 'melhor'.
 better -> significa 'melhor'.
 box -> significa 'caixa'.
@@ -23,17 +25,21 @@ close -> significa 'fechar'.
 come -> significa 'vir'.
 could -> significa 'poderia'.
 date -> significa 'data'.
+day -> significa 'dia'.
 desktop -> significa 'computador de mesa'.
 direct -> significa 'direto'.
 directory -> significa 'diretório'.
 down -> significa 'baixo'.
 dry -> significa 'seco'.
+ever -> significa 'sempre'.
 every -> significa 'todo'.
+evil -> significa 'mal'.
 file -> significa 'arquivo'.
 fine -> significa 'bom'.
 fly -> significa 'voar'.
 free -> significa 'livre'.
 forest -> significa 'foresta'.
+gate -> significa 'portão'.
 get -> significa 'pega'.
 go -> significa 'ir'.
 gold -> significa 'ouro'.
@@ -56,20 +62,24 @@ length -> significa 'comprimento'.
 lens -> significa 'lente'.
 let -> significa 'deixar'.
 library -> significa 'biblioteca'.
+life -> significa 'vida'.
 light -> significa 'luz'.
 long -> significa 'longo'.
 main -> significa 'princinpal'.
+man -> significa 'homen'.
 many -> significa 'muitas'. 
 market -> significa 'mercado'.
 me -> significa 'mim'.
 mind -> significa 'mente'.
 moon -> significa 'lua'.
 mountain -> significa 'montanha'.
+night -> significa 'noite'.
 no -> significa 'não'.
 not -> significa 'não'.
 now -> significa 'agora'.
-on -> significa 
+on -> significa 'no'.
 once -> significa 'uma vez'.
+one -> significa '1'.
 other -> significa 'outro'.
 our -> significa 'nosso'/'nossa'.
 out -> significa 'fora'.
@@ -77,12 +87,14 @@ people -> significa 'pessoas'.
 place -> significa 'lugar'.
 pickaxe -> significa 'picareta'.
 portion -> significa 'porção'.
+power -> significa 'poder'.
 prime -> significa 'primário'.
 product -> significa 'produto'.
 provide -> significa 'fornecer'.
 prompt -> significa 'induzir'.
 recent -> significa 'recente'.
 remember -> significa 'lembra'.
+return -> significa 'retorno'.
 right -> significa 'direita'.
 run -> significa 'correr'.
 safe -> significa 'seguro'.
@@ -97,6 +109,7 @@ skill -> significa 'habilidade'.
 sky -> significa 'céu'.
 sought -> significa 'procurado'.
 speed -> significa 'velocidade'.
+split -> significa 'dividir'.
 stay -> significa 'ficar'.
 staff -> significa 'cajado'.
 surround -> significa 'cercar'.
@@ -116,6 +129,8 @@ when -> significa 'quando'.
 will -> significa 'vai'.
 with -> significa 'com'.
 width -> significa 'largura'.
+wise -> significa 'sábio'.
+word -> significa 'palavra'.
 work -> significa 'trabalho'.
 you -> significa 'você'.
 your -> significa 'seu'/'sua'.
