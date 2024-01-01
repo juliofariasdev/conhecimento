@@ -1,4 +1,5 @@
 a -> significa 'um'/'uma'.
+about -> significa 'sobre'.
 across -> significa 'entre'.
 action -> significa 'ação'.
 activity -> significa 'atividade'.
@@ -13,6 +14,7 @@ better -> significa 'melhor'.
 box -> significa 'caixa'.
 body -> significa 'corpo'.
 branch -> significa 'ramificação'.
+but -> significa 'mas'.
 by -> significa 'por'.
 change -> significa 'mudança'.
 character -> significa 'personagem'.
@@ -24,6 +26,7 @@ date -> significa 'data'.
 desktop -> significa 'computador de mesa'.
 direct -> significa 'direto'.
 directory -> significa 'diretório'.
+down -> significa 'baixo'.
 dry -> significa 'seco'.
 every -> significa 'todo'.
 file -> significa 'arquivo'.
@@ -37,32 +40,40 @@ gold -> significa 'ouro'.
 grass -> significa 'grama'.
 here -> significa 'aqui'.
 hear -> significa 'ouvir'.
+height -> significa 'altura'.
 hill -> significa 'colina'.
 home -> significa 'lar'.
 hour -> significa 'hora'.
 house -> significa 'casa'.
 how -> significa 'como'.
 in -> significa 'em'.
+join -> significa 'juntar'.
 king -> significa 'rei'.
 kingdom -> significa 'reino'.
 late -> significa 'atrasado'.
 left -> significa 'esquerda'.
+length -> significa 'comprimento'.
 lens -> significa 'lente'.
 let -> significa 'deixar'.
 library -> significa 'biblioteca'.
 light -> significa 'luz'.
 long -> significa 'longo'.
 main -> significa 'princinpal'.
+many -> significa 'muitas'. 
 market -> significa 'mercado'.
 me -> significa 'mim'.
 mind -> significa 'mente'.
 moon -> significa 'lua'.
 mountain -> significa 'montanha'.
+no -> significa 'não'.
+not -> significa 'não'.
 now -> significa 'agora'.
+on -> significa 
 once -> significa 'uma vez'.
 other -> significa 'outro'.
 our -> significa 'nosso'/'nossa'.
 out -> significa 'fora'.
+people -> significa 'pessoas'.
 place -> significa 'lugar'.
 pickaxe -> significa 'picareta'.
 portion -> significa 'porção'.
@@ -83,6 +94,8 @@ shield -> significa 'escudo'.
 shovel -> significa 'pá'.
 sing -> significa 'cantar'.
 skill -> significa 'habilidade'.
+sky -> significa 'céu'.
+sought -> significa 'procurado'.
 speed -> significa 'velocidade'.
 stay -> significa 'ficar'.
 staff -> significa 'cajado'.
@@ -95,12 +108,14 @@ too -> significa 'também'.
 tool -> significa 'ferramenta'.
 try -> significa 'tentar'.
 up -> significa 'acima'.
+walk -> significa 'andar'.
 want -> significa 'quero'.
 we ->  significa 'nós'.
 web -> significa 'rede'.
 when -> significa 'quando'.
 will -> significa 'vai'.
 with -> significa 'com'.
+width -> significa 'largura'.
 work -> significa 'trabalho'.
 you -> significa 'você'.
 your -> significa 'seu'/'sua'.
