@@ -25,6 +25,7 @@ city -> significa 'cidade'.
 close -> significa 'fechar'.
 come -> significa 'vir'.
 could -> significa 'poderia'.
+cover -> significa 'cobrir'
 date -> significa 'data'.
 day -> significa 'dia'.
 desktop -> significa 'computador de mesa'.
@@ -36,6 +37,7 @@ eat -> significa 'comer'.
 ever -> significa 'sempre'.
 every -> significa 'todo'.
 evil -> significa 'mal'.
+far -> significa 'distante'.
 file -> significa 'arquivo'.
 fire -> significa 'fogo'.
 fine -> significa 'bom'.
@@ -52,6 +54,7 @@ have -> significa 'ter'.
 here -> significa 'aqui'.
 hear -> significa 'ouvir'.
 height -> significa 'altura'.
+help -> significa 'ajuda'.
 hill -> significa 'colina'.
 home -> significa 'lar'.
 hot -> significa 'quente'.
@@ -72,6 +75,7 @@ library -> significa 'biblioteca'.
 life -> significa 'vida'.
 light -> significa 'luz'.
 long -> significa 'longo'.
+lower -> significa 'menor'.
 mage -> significa 'mago'.
 main -> significa 'princinpal'.
 man -> significa 'homen'.
@@ -81,6 +85,7 @@ me -> significa 'mim'.
 mind -> significa 'mente'.
 moon -> significa 'lua'.
 mountain -> significa 'montanha'.
+need -> significa 'precisar'.
 night -> significa 'noite'.
 no -> significa 'não'.
 not -> significa 'não'.
@@ -117,6 +122,8 @@ side -> significa 'lado'.
 sing -> significa 'cantar'.
 skill -> significa 'habilidade'.
 sky -> significa 'céu'.
+some -> significa 'algun'.
+solve -> significa 'resolver'.
 sought -> significa 'procurado'.
 speed -> significa 'velocidade'.
 split -> significa 'dividir'.
@@ -126,12 +133,17 @@ surround -> significa 'cercar'.
 sword -> significa 'espada'.
 table -> significa 'mesa'.
 take -> significa 'pega'.
+text -> significa 'texto'.
 the -> significa 'o'.
+them -> significa 'eles'.
+three -> significa '3'.
 too -> significa 'também'.
 tool -> significa 'ferramenta'.
 try -> significa 'tentar'.
 two -> significa '2'.
 up -> significa 'acima'.
+upper -> significa 'maior'.
+use -> significa 'usa'.
 walk -> significa 'andar'.
 want -> significa 'quero'.
 war -> significa 'guerra'.
@@ -139,6 +151,8 @@ water -> significa 'água'.
 we ->  significa 'nós'.
 web -> significa 'rede'.
 when -> significa 'quando'.
+wide -> significa 'largo'.
+wild -> significa 'selvagem'.
 will -> significa 'vai'.
 with -> significa 'com'.
 width -> significa 'largura'.
@@ -146,5 +160,6 @@ wise -> significa 'sábio'.
 wood -> significa 'madeira'.
 word -> significa 'palavra'.
 work -> significa 'trabalho'.
+wound -> significa 'ferimento'.
 you -> significa 'você'.
 your -> significa 'seu'/'sua'.
