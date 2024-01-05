@@ -6,6 +6,7 @@ activity -> significa 'atividade'.
 again -> significa 'denovo'.
 ago -> significa 'atrás'.
 all -> significa 'tudo'.
+also -> significa 'também'.
 and -> significa 'e'.
 armor -> significa 'armadura'.
 back -> significa 'atrás'.
@@ -21,6 +22,7 @@ by -> significa 'por'.
 change -> significa 'mudança'.
 character -> significa 'personagem'.
 check -> significa 'checa'.
+choose -> significa 'escolher'.
 city -> significa 'cidade'.
 close -> significa 'fechar'.
 come -> significa 'vir'.
@@ -31,7 +33,10 @@ day -> significa 'dia'.
 desktop -> significa 'computador de mesa'.
 direct -> significa 'direto'.
 directory -> significa 'diretório'.
+do -> significa 'fazer'.
+door -> significa 'porta'.
 down -> significa 'baixo'.
+dream -> significa 'sonho'.
 dry -> significa 'seco'.
 each -> significa 'cada'
 eat -> significa 'comer'.
@@ -76,6 +81,7 @@ king -> significa 'rei'.
 kingdom -> significa 'reino'.
 late -> significa 'atrasado'.
 learn -> significa 'aprender'.
+leave -> significa 'deixar',
 leech -> significa 'sanguessuga'.
 left -> significa 'esquerda'.
 length -> significa 'comprimento'.
@@ -84,7 +90,9 @@ let -> significa 'deixar'.
 library -> significa 'biblioteca'.
 life -> significa 'vida'.
 light -> significa 'luz'.
+list -> significa 'lista'.
 long -> significa 'longo'.
+look -> significa 'olha'.
 lower -> significa 'menor'.
 mage -> significa 'mago'.
 main -> significa 'princinpal'.
@@ -96,6 +104,7 @@ mind -> significa 'mente'.
 moon -> significa 'lua'.
 mountain -> significa 'montanha'.
 need -> significa 'precisar'.
+next -> significa 'próximo'.
 night -> significa 'noite'.
 no -> significa 'não'.
 not -> significa 'não'.
@@ -106,6 +115,7 @@ one -> significa '1'.
 other -> significa 'outro'.
 our -> significa 'nosso'/'nossa'.
 out -> significa 'fora'.
+own -> significa 'ter'.
 people -> significa 'pessoas'.
 place -> significa 'lugar'.
 pickaxe -> significa 'picareta'.
@@ -113,6 +123,7 @@ portion -> significa 'porção'.
 power -> significa 'poder'.
 prime -> significa 'primário'.
 product -> significa 'produto'.
+protect -> significa 'proteger'
 provide -> significa 'fornecer'.
 prompt -> significa 'induzir'.
 recent -> significa 'recente'.
@@ -144,13 +155,16 @@ speed -> significa 'velocidade'.
 split -> significa 'dividir'.
 stay -> significa 'ficar'.
 staff -> significa 'cajado'.
+summary -> significa 'resumo'.
 surround -> significa 'cercar'.
 sword -> significa 'espada'.
 table -> significa 'mesa'.
 take -> significa 'pega'.
 text -> significa 'texto'.
+that -> significa 'que'/'aquele'.
 the -> significa 'o'.
 them -> significa 'eles'.
+think -> significa 'pensar'.
 three -> significa '3'.
 too -> significa 'também'.
 tool -> significa 'ferramenta'.
@@ -162,6 +176,7 @@ use -> significa 'usa'.
 walk -> significa 'andar'.
 want -> significa 'quero'.
 war -> significa 'guerra'.
+was -> significa 'era'.
 water -> significa 'água'.
 we ->  significa 'nós'.
 web -> significa 'rede'.
