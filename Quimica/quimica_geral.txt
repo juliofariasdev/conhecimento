@@ -11,3 +11,9 @@
         Transformações físicas ou Fenôemnos físicos -> quando a transformação muda apenas o estado físico.
         Transformações químicas, Fenômenos químicos ou Reações químicas -> quando a transformação muda o estado químico.
         Energia -> tudo que é capaz de realizar um trabalho.
+    
+    1.4.CONCEITO DE QUÍMICA:
+        QUÍMICA é o ramo da ciência que estuda:
+            * A Matéria;
+            * A Transformações da Matéria;
+            * A Energia envolvida nessas transformações;
