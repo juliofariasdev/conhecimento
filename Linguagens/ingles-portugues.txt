@@ -11,6 +11,7 @@ and -> significa 'e'.
 armor -> significa 'armadura'.
 back -> significa 'atrás'.
 bag -> significa 'bolsa'.
+ball -> significa 'bola'.
 begin -> significa 'começar'.
 best -> significa 'melhor'.
 better -> significa 'melhor'.
@@ -19,6 +20,7 @@ body -> significa 'corpo'.
 branch -> significa 'ramificação'.
 but -> significa 'mas'.
 by -> significa 'por'.
+cave -> significa 'cave'.
 change -> significa 'mudança'.
 character -> significa 'personagem'.
 check -> significa 'checa'.
@@ -26,10 +28,12 @@ choose -> significa 'escolher'.
 city -> significa 'cidade'.
 close -> significa 'fechar'.
 come -> significa 'vir'.
+copper -> significa 'cobre'.
 could -> significa 'poderia'.
 cover -> significa 'cobrir'
 date -> significa 'data'.
 day -> significa 'dia'.
+desert -> significa 'deserto'.
 desktop -> significa 'computador de mesa'.
 direct -> significa 'direto'.
 directory -> significa 'diretório'.
@@ -53,6 +57,8 @@ fine -> significa 'bom'.
 fly -> significa 'voar'.
 free -> significa 'livre'.
 follow -> significa 'seguir'.
+food -> significa 'comida'.
+four -> significa '4'.
 forest -> significa 'foresta'.
 gain -> significa 'gain'.
 gate -> significa 'portão'.
@@ -61,12 +67,15 @@ give -> significa 'dar'.
 go -> significa 'ir'.
 gold -> significa 'ouro'.
 grass -> significa 'grama'.
-growl ->significa 'rosnar'.
+group -> significa 'grupo'.
+growl -> significa 'rosnar'.
+guide -> significa 'guia'.
 have -> significa 'ter'.
 heal -> significa 'curar'
 hear -> significa 'ouvir'.
 here -> significa 'aqui'.
 height -> significa 'altura'.
+hell -> significa 'inferno'.
 help -> significa 'ajuda'.
 hill -> significa 'colina'.
 home -> significa 'lar'.
@@ -77,6 +86,7 @@ how -> significa 'como'.
 in -> significa 'em'.
 iron -> significa 'ferro'.
 join -> significa 'juntar'.
+jungle -> significa 'selva'.
 king -> significa 'rei'.
 kingdom -> significa 'reino'.
 late -> significa 'atrasado'.
@@ -93,6 +103,7 @@ light -> significa 'luz'.
 list -> significa 'lista'.
 long -> significa 'longo'.
 look -> significa 'olha'.
+love -> significa 'amor'.
 lower -> significa 'menor'.
 mage -> significa 'mago'.
 main -> significa 'princinpal'.
@@ -109,6 +120,7 @@ night -> significa 'noite'.
 no -> significa 'não'.
 not -> significa 'não'.
 now -> significa 'agora'.
+of -> significa 'de'.
 on -> significa 'no'.
 once -> significa 'uma vez'.
 one -> significa '1'.
@@ -137,6 +149,7 @@ sample -> significa 'amostra'.
 sand -> significa 'areia'.
 say -> significa 'dizer'.
 search -> significa 'procura'.
+sea -> significa 'mar'.
 see -> significa 'ver'.
 seed -> significa 'semente'.
 seke -> significa 'interesse'.
@@ -155,6 +168,7 @@ speed -> significa 'velocidade'.
 split -> significa 'dividir'.
 stay -> significa 'ficar'.
 staff -> significa 'cajado'.
+stone -> significa 'pedra'.
 summary -> significa 'resumo'.
 surround -> significa 'cercar'.
 sword -> significa 'espada'.
@@ -170,6 +184,7 @@ too -> significa 'também'.
 tool -> significa 'ferramenta'.
 try -> significa 'tentar'.
 two -> significa '2'.
+underground -> significa 'subterrâneo'.
 up -> significa 'acima'.
 upper -> significa 'maior'.
 use -> significa 'usa'.
