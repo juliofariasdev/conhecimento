@@ -1,0 +1,2 @@
+julio:1001:administrador:2000.00
+vick:1001:comun:1234.25
