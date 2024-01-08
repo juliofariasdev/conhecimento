@@ -1,0 +1,4 @@
+julio cesar:10
+monicky:9
+marcelo:10
+vick:11

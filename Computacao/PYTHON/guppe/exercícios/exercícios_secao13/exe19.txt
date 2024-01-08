@@ -1,0 +1,5 @@
+julio cesar:9.3
+marcelo:9.4
+vick:10
+joao:9
+ohana:8

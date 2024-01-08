@@ -1,0 +1,7 @@
+uva 6
+carne 25
+arroz 10
+feijao 12
+salada 4
+batata 3
+chocolata 6
