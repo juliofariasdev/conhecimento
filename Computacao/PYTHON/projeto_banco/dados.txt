@@ -1,3 +1,0 @@
-julio;usuario;farias;1000.00
-cesar;admin;silva;200.00
-joao;usuario;salinhos;2700.00
