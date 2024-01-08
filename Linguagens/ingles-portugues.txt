@@ -3,6 +3,7 @@ about -> significa 'sobre'.
 across -> significa 'entre'.
 action -> significa 'ação'.
 activity -> significa 'atividade'.
+after -> significa 'depois'.
 again -> significa 'denovo'.
 ago -> significa 'atrás'.
 all -> significa 'tudo'.
@@ -13,12 +14,15 @@ back -> significa 'atrás'.
 bag -> significa 'bolsa'.
 ball -> significa 'bola'.
 bed -> significa 'cama'.
+before -> significa 'antes'.
 begin -> significa 'começar'.
 best -> significa 'melhor'.
 better -> significa 'melhor'.
 big -> significa 'grande'.
-box -> significa 'caixa'.
+blue -> significa 'azul'.
 body -> significa 'corpo'.
+book -> significa 'livro'.
+box -> significa 'caixa'.
 branch -> significa 'ramificação'.
 but -> significa 'mas'.
 by -> significa 'por'.
@@ -65,9 +69,10 @@ fly -> significa 'voar'.
 free -> significa 'livre'.
 follow -> significa 'seguir'.
 food -> significa 'comida'.
+for -> significa 'para'.
 four -> significa '4'.
 forest -> significa 'foresta'.
-gain -> significa 'gain'.
+gain -> significa 'ganho'.
 gate -> significa 'portão'.
 get -> significa 'pega'.
 give -> significa 'dar'.
@@ -88,6 +93,7 @@ hell -> significa 'inferno'.
 help -> significa 'ajuda'.
 hill -> significa 'colina'.
 home -> significa 'lar'.
+horse -> significa 'cavalo'.
 hot -> significa 'quente'.
 hour -> significa 'hora'.
 house -> significa 'casa'.
@@ -112,6 +118,7 @@ light -> significa 'luz'.
 list -> significa 'lista'.
 long -> significa 'longo'.
 look -> significa 'olha'.
+lose -> significa 'perder'.
 love -> significa 'amor'.
 lower -> significa 'menor'.
 mage -> significa 'mago'.
@@ -131,6 +138,7 @@ night -> significa 'noite'.
 no -> significa 'não'.
 not -> significa 'não'.
 now -> significa 'agora'.
+number -> significa 'número'.
 of -> significa 'de'.
 on -> significa 'no'.
 once -> significa 'uma vez'.
@@ -139,9 +147,12 @@ other -> significa 'outro'.
 our -> significa 'nosso'/'nossa'.
 out -> significa 'fora'.
 own -> significa 'ter'.
+pain -> significa 'dor'.
 people -> significa 'pessoas'.
 place -> significa 'lugar'.
+plant -> significa 'planta'.
 pickaxe -> significa 'picareta'.
+point -> significa 'ponto'.
 portion -> significa 'porção'.
 power -> significa 'poder'.
 prime -> significa 'primário'.
@@ -157,6 +168,7 @@ road -> significa 'estrada'.
 rock -> significa 'rocha'.
 run -> significa 'correr'.
 safe -> significa 'seguro'.
+sake -> significa 'interesse'.
 sample -> significa 'amostra'.
 sand -> significa 'areia'.
 say -> significa 'dizer'.
@@ -164,13 +176,13 @@ search -> significa 'procura'.
 sea -> significa 'mar'.
 see -> significa 'ver'.
 seed -> significa 'semente'.
-seke -> significa 'interesse'.
 sent -> significa 'enviado'.
 sheet -> significa 'folha'.
 shield -> significa 'escudo'.
 shovel -> significa 'pá'.
 side -> significa 'lado'.
 sing -> significa 'cantar'.
+six -> significa '6'.
 skill -> significa 'habilidade'.
 sky -> significa 'céu'.
 some -> significa 'algun'.
@@ -184,6 +196,7 @@ staff -> significa 'cajado'.
 stone -> significa 'pedra'.
 strong -> significa 'forte'.
 summary -> significa 'resumo'.
+surf -> significa 'surfar'.
 surround -> significa 'cercar'.
 sword -> significa 'espada'.
 table -> significa 'mesa'.
@@ -203,6 +216,7 @@ up -> significa 'acima'.
 upper -> significa 'maior'.
 use -> significa 'usa'.
 value -> significa 'valor'.
+vine -> significa 'vinha'.
 walk -> significa 'andar'.
 want -> significa 'quero'.
 war -> significa 'guerra'.
@@ -216,6 +230,7 @@ wild -> significa 'selvagem'.
 will -> significa 'vai'.
 with -> significa 'com'.
 width -> significa 'largura'.
+window -> significa 'janela'.
 wise -> significa 'sábio'.
 wood -> significa 'madeira'.
 word -> significa 'palavra'.
